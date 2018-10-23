@@ -1,2 +1,2 @@
 # Git-Demo
-learning github
+Hello this is a repository to learn github.
